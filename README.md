@@ -1,4 +1,4 @@
 # BodeCHATo
-Um chatbot escrito em Python
+Um chatbot escrito em Python, utilizando a bibliteca PySimpleGUI (http://www.PySimpleGUI.org).
 
-![Alt Text](https://github.com/gleriston/BodeCHATo/blob/master/BodeCHATo.jpg)
+![Alt Text](https://github.com/gleriston/deposito/blob/master/BodeCHATo_tela.png)
